@@ -9,4 +9,4 @@
 
 
 ## Get started
-I will explain soon, you can git the repository now 
+I will explain soon, you can clone the repository now 
