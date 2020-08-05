@@ -1,0 +1,103 @@
+﻿@model IdentityServerHost.Quickstart.UI.RegisterVM
+
+<div class="register-page">
+    <div class="page-header lead">
+        <h1>Registration</h1>
+    </div>
+
+    <partial name="_ValidationSummary" />
+
+    <div class="row">
+
+
+        <div class="col-md-6 col-md-offset-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Local Login</h3>
+                </div>
+                <div class="panel-body">
+
+                    <form asp-route="Register">
+                        <input type="hidden" asp-for="ReturnUrl" />
+
+                        <fieldset>
+                            <div class="form-group">
+                                <label asp-for="Username"></label>
+                                <input class="form-control" placeholder="Username" asp-for="Username" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email"></label>
+                                <input class="form-control" placeholder="Email" asp-for="Email" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Password"></label>
+                                <input type="password" class="form-control" placeholder="Password" asp-for="Password" autocomplete="off">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ConfirmPassword"></label>
+                                <input type="password" class="form-control" placeholder="Password" asp-for="ConfirmPassword" autocomplete="off">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ArabicFirstName"></label>
+                                <input class="form-control" placeholder="ArabicFirstName" asp-for="ArabicFirstName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ArabicMiddleName"></label>
+                                <input class="form-control" placeholder="ArabicMiddleName" asp-for="ArabicMiddleName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ArabicFamilyName"></label>
+                                <input class="form-control" placeholder="ArabicFamilyName" asp-for="ArabicFamilyName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ArabicGrandName"></label>
+                                <input class="form-control" placeholder="ArabicGrandName" asp-for="ArabicGrandName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="EnglishFirstName"></label>
+                                <input class="form-control" placeholder="EnglishFirstName" asp-for="EnglishFirstName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="EnglishMiddleName"></label>
+                                <input class="form-control" placeholder="EnglishMiddleName" asp-for="EnglishMiddleName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="EnglishGrandName"></label>
+                                <input class="form-control" placeholder="EnglishGrandName" asp-for="EnglishGrandName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="EnglishFamilyName"></label>
+                                <input class="form-control" placeholder="EnglishFamilyName" asp-for="EnglishFamilyName" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="IsMale"></label>
+                                <input class="form-control" type="checkbox" placeholder="IsNale" asp-for="IsMale" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Nationality"></label>
+                                <input class="form-control" placeholder="Nationality" asp-for="Nationality" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Birthdate"></label>
+                                <input class="form-control" type="date" placeholder="Birthdate" asp-for="Birthdate" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="PhoneNumber"></label>
+                                <input class="form-control" placeholder="PhoneNumber" asp-for="PhoneNumber" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ProfileImage"></label>
+                                <input class="form-control" placeholder="ProfileImage" asp-for="ProfileImage" autofocus>
+                            </div>
+
+                            <div class="form-group">
+                                <button class="btn btn-primary" name="button" value="register">Register</button>
+                                <button class="btn btn-default" name="button" value="cancel">Cancel</button>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

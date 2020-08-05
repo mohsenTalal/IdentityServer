@@ -1,0 +1,17 @@
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache
+C:\Identity Server\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+C:\Identity Server\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Identity Server\start\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\Identity Server\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\Identity Server\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\Identity Server\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\Identity Server\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Identity Server\start\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb

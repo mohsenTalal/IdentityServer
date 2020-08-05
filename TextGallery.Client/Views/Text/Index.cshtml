@@ -1,0 +1,23 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div>
+    Authorize Text
+</div>
+@if (User.IsInRole("admin"))
+{
+    <h2><a asp-area="" asp-controller="Text" asp-action="OrderAddress">Admin OrderAddress</a></h2>
+}
+
+    <h2><a asp-area="" asp-controller="Text" asp-action="OrderAddress">OrderAddress</a></h2>
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h2><a asp-area="" asp-controller="Text" asp-action="Logout">Logout</a></h2>
+}
+

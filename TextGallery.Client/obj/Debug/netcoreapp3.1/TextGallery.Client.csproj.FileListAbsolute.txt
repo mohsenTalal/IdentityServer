@@ -1,0 +1,242 @@
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.exe
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.deps.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.runtimeconfig.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.runtimeconfig.dev.json
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.csprojAssemblyReference.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.AssemblyInfoInputs.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.AssemblyInfo.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorTargetAssemblyInfo.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\TextGallery.Client.StaticWebAssets.Manifest.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\TextGallery.Client.StaticWebAssets.xml
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.genruntimeconfig.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.csproj.CopyComplete
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.Views.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.Views.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorAssemblyInfo.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorAssemblyInfo.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.TagHelpers.input.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.TagHelpers.output.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorCoreGenerate.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\Index.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorTargetAssemblyInfo.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.Views.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\OrderAddress.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Authorization\AccessDenied.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\Index1.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\EditImage.cshtml.g.cs
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.csproj.CoreCompileInputs.cache
+C:\Users\aiass\Downloads\securing-aspnet-core-3-oauth2-openid-connect\03\demos\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.exe
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.deps.json
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.runtimeconfig.json
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.runtimeconfig.dev.json
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.pdb
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.Views.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\TextGallery.Client.Views.pdb
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
+C:\Identity Server\start\TextGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.csprojAssemblyReference.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.AssemblyInfoInputs.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.AssemblyInfo.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.csproj.CoreCompileInputs.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorAssemblyInfo.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorAssemblyInfo.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.TagHelpers.input.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.TagHelpers.output.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorCoreGenerate.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Authorization\AccessDenied.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\EditImage.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\Index.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\Index1.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Text\OrderAddress.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorTargetAssemblyInfo.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.RazorTargetAssemblyInfo.cs
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.Views.pdb
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.csproj.CopyComplete
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\TextGallery.Client.StaticWebAssets.Manifest.cache
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\TextGallery.Client.StaticWebAssets.xml
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.dll
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.pdb
+C:\Identity Server\start\TextGallery.Client\obj\Debug\netcoreapp3.1\TextGallery.Client.genruntimeconfig.cache
